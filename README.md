@@ -1,4 +1,4 @@
-## Gradient and Color spaces
+## Advanced CV techniques
 
 The IPython notebooks in this repository contain code to - 
  
